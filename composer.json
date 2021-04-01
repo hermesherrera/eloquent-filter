@@ -1,0 +1,17 @@
+{
+    "name": "hermesherrera/eloquent-filter",
+    "description": "Paquete que permite filtrar datos de un modelo por medio de Eloquent",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hermes Herrera Capacho",
+            "email": "hermesherrera@hecatech.co"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HermesHerrera\\EloquentFilter\\": "/"
+        }
+    }
+}
