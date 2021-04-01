@@ -8,6 +8,7 @@
             "email": "hermesherrera@hecatech.co"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
